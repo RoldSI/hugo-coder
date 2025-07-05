@@ -1,7 +1,6 @@
 # Configurations
 
 * [About Hugo Configurations](#about-hugo-configurations)
-  * [Analytics](/docs/analytics.md)
   * [Commenting Systems](#commenting-systems)
     * [Disqus](#disqus)
     * [Commento](#commento)
@@ -19,8 +18,6 @@
 ## About Hugo Configurations
 
 This theme supports:
-
-* [Analytics](/docs/analytics.md)
 
 * Commenting Systems
   * [Disqus](https://disqus.com/)
@@ -229,8 +226,7 @@ An example:
   ]
   scriptsrc = [
     "'self'",
-    "'unsafe-inline'",
-    "https://www.google-analytics.com"
+    "'unsafe-inline'"
   ]
   # connect-src directive – defines valid targets for XMLHttpRequest (AJAX), WebSockets or EventSource
   connectsrc = ["'self'"]
