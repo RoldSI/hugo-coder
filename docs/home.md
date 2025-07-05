@@ -10,7 +10,6 @@
 
 * [Multilingual Mode](multilingual-mode.md)
 * [Comment System](comment-system.md)
-* [Analytics](analytics.md)
 
 ## Maintainers & Developers
 
